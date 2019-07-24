@@ -1,5 +1,6 @@
 C'est un repo dédié aux exos avec Python (Juil 2019: first import)
-Contenu:
+
+Contenu (24-juil-2019):
 * Integration_1 :
 Calcul de l'intégrale 
 ```math
