@@ -1,0 +1,4 @@
+def integ0(a,b,n,f):
+    x = np.linspace(a,b,n,endpoint=False)
+    y = f(x)
+    return (b-a)/n * np.sum(y)
