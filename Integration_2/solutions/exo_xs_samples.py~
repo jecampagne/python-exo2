@@ -1,0 +1,4 @@
+ns = 20
+a=1
+b=3
+xs = np.linspace(a,b,ns+1,endpoint=True)
