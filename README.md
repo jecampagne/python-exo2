@@ -1,6 +1,9 @@
 C'est un repo dédié aux exos avec Python (Juil 2019: first import)
 
-Contenu (28-juil-2019):
+(15-jan-2020)
+* dans Point-fixe un exo pour comprendre la notion de point fixe, d'attracteur... avec un exemple de marche vers le chaos.
+
+(28-juil-2019):
 * Un série sur l'intégration numérique à 1 dimension:
   * Integration_1 :
 Objectif: Calcul de l'intégrale  $\int_a^b f(x) dx$ par la méthode des rectangles.
